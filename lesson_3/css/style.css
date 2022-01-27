@@ -1,0 +1,52 @@
+.list {
+	color: crimson;
+}
+h1 {
+	color: red;
+}
+span {
+	color: darkcyan;
+}
+
+.title2 {
+	color: orange;
+}
+#chapter2 {
+	color: purple;
+}
+p {
+	color: maroon;
+}
+p {
+	color: green;
+}
+.list1 {
+	color: lawngreen;
+}
+.list1 {
+	color: lightsalmon;
+}
+div {
+	color: lime;
+}
+.footer-row {
+	color: darkolivegreen;
+}
+ul.list2 {
+	color: darkslategrey;
+}
+/*ID это самый приоритетный селектор в подключаемом файле*/
+p a {
+	color: olive;
+}
+.text19.black {
+	color: black;
+}
+.text15,
+.text14,
+.text12 {
+	color: orangered;
+}
+[class*="text"] {
+	color: purple;
+}
